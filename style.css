@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.justify-content-container{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10rem;
+
+}
+.display{
+  display: inline-block;
+  }
+.class{
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 2rem;
+}
